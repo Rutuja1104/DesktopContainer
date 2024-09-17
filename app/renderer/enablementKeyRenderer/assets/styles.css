@@ -1,0 +1,35 @@
+
+ .enablement-box {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #e9f3fe;
+}
+
+.file-container {
+  width: 450px;
+  margin: auto;
+  padding: 2rem;
+  background: #ffffff;
+  border-radius: 25px;
+  box-shadow: 7px 20px 20px rgb(210, 227, 244);
+}
+
+.textField {
+  width: 100%;
+  border: 2px solid rgb(210, 227, 244);
+  border-radius: 5px;
+  resize: vertical;
+}
+
+.label {
+  padding: 10px 0;
+}
+
+.passwordField {
+  border: 2px solid rgb(210, 227, 244);
+  border-radius: 5px;
+  padding: 5px;
+}
